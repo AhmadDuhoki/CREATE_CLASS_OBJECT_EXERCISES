@@ -1,2 +1,0 @@
-# CREATE_CLASS_OBJECT_EXERCISES
-Created with CodeSandbox
